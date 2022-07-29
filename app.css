@@ -1,0 +1,42 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+h1{
+    color: goldenrod;
+    font-size: 75px;
+    text-shadow: 2px 0px 1px goldenrod;
+    letter-spacing: 5px;
+    font-weight: 900;
+    margin-top: 100px;
+}
+p {
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+#play-message{
+    font-style: italic;
+}
+button{
+    background-color: goldenrod;
+    padding: 15px 15px 15px 15px;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    margin: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+#newCard-el{
+    padding-left: 25px;
+    padding-right: 25px;
+    
+    
+}
